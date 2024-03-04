@@ -1,16 +1,13 @@
-### Hi there 👋
+# puzz00
 
-<!--
-**puzz00/puzz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⛩️ welcome to my github ⛩️
 
-Here are some ideas to get you started:
+👹 i hope you will find something of use here - there are various things related to cyber security - all ⚪ 🎩 of course 👹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 thank you for visiting 🌸
+
+---
+
+### my github stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=puzz00&theme=hacker&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
