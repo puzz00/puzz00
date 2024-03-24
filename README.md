@@ -4,6 +4,10 @@
 
 👹 i hope you will find something of use here - there are various things related to cyber security - all ⚪ 🎩 of course 👹
 
+👹 you can find notes regarding pen testing, hacking and ctf box pwning [here](https://puzz00.github.io) 👹
+
+👹 to more easily find my ctf box writeups please visit [ctf boxes](https://puzz00.github.io/ctf_index.html) 👹
+
 🌸 thank you for visiting 🌸
 
 ---
